@@ -11,7 +11,7 @@
 - [Snakemake TCGA survival](https://github.com/cbib/snakemake_tcga_survival)
   - A Snakemake pipeline to perform survival screenings in the 32 TCGA cancer types, ensuring reproducibility and scalability.
   - I conceptualized the idea, designed the Snakemake pipeline and scripted the R code.
-- [cSCC study reproducibility repository](https://github.com/admincbib/Reproduce_cSCC_GeoMx_HTGseq)
+- [cSCC study reproducibility repository](https://github.com/cbib/Reproduce_cSCC_GeoMx_HTGseq)
   - This repository reproduces end-to-end all the bioinformatics analyses on HTG-seq and GeoMx data from cSCC patients from our [recent publication](https://www.biorxiv.org/content/10.64898/2026.04.30.721943v1).
   - I conceptualized the statistical approach for differential expression, pathway analyses and biomarker discovery. Finally, I made the analyses reproducible end-to-end to ensure our work aligned with the highest scientific standards.
 - Upcoming projects
